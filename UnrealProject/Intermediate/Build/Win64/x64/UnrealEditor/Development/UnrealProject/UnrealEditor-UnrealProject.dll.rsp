@@ -21,7 +21,7 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -36,10 +36,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.cpp.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\PerModuleInline.gen.cpp.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Default.rc2.res"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\PerModuleInline.gen.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\CS 225\CS225-Unreal\UnrealProject\Binaries\Win64\UnrealEditor-UnrealProject.dll"
-/PDB:"F:\CS 225\CS225-Unreal\UnrealProject\Binaries\Win64\UnrealEditor-UnrealProject.pdb"
+/OUT:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Binaries\Win64\UnrealEditor-UnrealProject.dll"
+/PDB:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Binaries\Win64\UnrealEditor-UnrealProject.pdb"
 /ignore:4078
