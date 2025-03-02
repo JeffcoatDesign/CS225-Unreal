@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ethan\\Documents\\GitHub\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject\\UnrealProject.Build.cs",
-		"C:\\Users\\Ethan\\Documents\\GitHub\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject.Target.cs",
-		"C:\\Users\\Ethan\\Documents\\GitHub\\CS225-Unreal\\UnrealProject\\Source\\UnrealProjectEditor.Target.cs"
+		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject\\UnrealProject.Build.cs",
+		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject.Target.cs",
+		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.3"
 }

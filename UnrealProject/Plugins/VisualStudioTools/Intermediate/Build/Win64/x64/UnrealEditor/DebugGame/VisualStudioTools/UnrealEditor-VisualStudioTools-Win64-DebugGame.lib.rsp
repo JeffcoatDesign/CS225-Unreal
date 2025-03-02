@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VisualStudioTools-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VisualStudioTools\Default.rc2.res"
+/OUT:"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\VisualStudioTools\UnrealEditor-VisualStudioTools-Win64-DebugGame.lib"
