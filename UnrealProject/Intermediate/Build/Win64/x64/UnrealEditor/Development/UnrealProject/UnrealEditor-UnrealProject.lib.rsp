@@ -7,7 +7,13 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\TP_ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\TP_ThirdPersonGameMode.gen.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.init.gen.cpp.obj"
 "C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealProject.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\TP_ThirdPerson.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\TP_ThirdPersonCharacter.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\TP_ThirdPersonGameMode.cpp.obj"
 "C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\PerModuleInline.gen.cpp.obj"
 "C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\Default.rc2.res"
 /OUT:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealProject\UnrealEditor-UnrealProject.lib"
