@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject\\UnrealProject.Build.cs",
+		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProject.Target.cs",
 		"F:\\CS 225\\CS225-Unreal\\UnrealProject\\Source\\UnrealProjectEditor.Target.cs"
 	],
