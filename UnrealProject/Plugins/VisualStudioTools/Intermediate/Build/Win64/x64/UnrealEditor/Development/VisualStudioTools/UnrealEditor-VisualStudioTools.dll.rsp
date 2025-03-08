@@ -36,9 +36,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AssetRegistry\UnrealEditor-AssetRegistry.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -72,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Binaries\Win64\UnrealEditor-VisualStudioTools.dll"
-/PDB:"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Binaries\Win64\UnrealEditor-VisualStudioTools.pdb"
+/OUT:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Binaries\Win64\UnrealEditor-VisualStudioTools.dll"
+/PDB:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Binaries\Win64\UnrealEditor-VisualStudioTools.pdb"
 /ignore:4078

@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-VisualStudioTools.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\CS 225\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
-/OUT:"F:\CS 225\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Intermediate\Build\Win64\x64\UnrealProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/OUT:"C:\Users\Ethan\Documents\GitHub\CS225-Unreal\UnrealProject\Plugins\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"

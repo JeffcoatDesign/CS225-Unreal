@@ -77,14 +77,14 @@ ATestCharacter::~ATestCharacter() {}
 // End Class ATestCharacter
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ATestCharacter, ATestCharacter::StaticClass, TEXT("ATestCharacter"), &Z_Registration_Info_UClass_ATestCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestCharacter), 1289674418U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_2426927794(TEXT("/Script/UnrealProject"),
-	Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_2426927794(TEXT("/Script/UnrealProject"),
+	Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_Public_TestCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ethan/Documents/GitHub/CS225-Unreal/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Ethan/Documents/GitHub/CS225-Unreal/UnrealProject/Content/Blueprints/BP_PressableButton.uasset",
+				"C:/Users/Ethan/Documents/GitHub/CS225-Unreal/UnrealProject/Content/__ExternalActors__/Levels/Start/7/73/6VB0NLJRW81W406S8OGQ2B.uasset",
 				"F:/CS 225/CS225-Unreal/UnrealProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"F:/CS 225/CS225-Unreal/UnrealProject/Content/Levels/Start_HLOD0_Instancing.uasset",
 				"F:/CS 225/CS225-Unreal/UnrealProject/Content/__ExternalActors__/Levels/Start/7/JX/SLJW8NR1UOK2H5JG4R12E9.uasset",

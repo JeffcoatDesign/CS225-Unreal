@@ -128,14 +128,14 @@ AMyActor::~AMyActor() {}
 // End Class AMyActor
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_MyActor_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_MyActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyActor, AMyActor::StaticClass, TEXT("AMyActor"), &Z_Registration_Info_UClass_AMyActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyActor), 3376529754U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_MyActor_h_446443884(TEXT("/Script/UnrealProject"),
-	Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UnrealProject_Source_UnrealProject_MyActor_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_MyActor_h_446443884(TEXT("/Script/UnrealProject"),
+	Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Ethan_Documents_GitHub_CS225_Unreal_UnrealProject_Source_UnrealProject_MyActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
